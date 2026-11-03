@@ -1,6 +1,113 @@
-# DATA-ANALYTICS-ABOUT-THE-DATASET
-# AIM
+DATA-ANALYTICS-ABOUT-THE-DATASET
+AIM
 To perform data analytics on a given dataset using Python and Pandas, understand the characteristics of the dataset, identify different types of data, examine missing values, and prepare the dataset for further analysis and machine learning.
-# THEORY
+THEORY
+1 What is Data Analytics?
+Data Analytics is the systematic process of studying data to obtain meaningful
+information.
+The general data analytics process is:
+Data Collection → Data Understanding → Data Cleaning → Data Transformation →
+Data Analysis → Interpretation
+For example, an e-commerce company may collect customer information such as:
+ Country
+ Age
+ Salary
+ Product purchased
+By analyzing this information, the company can identify customer purchasing patterns.
 
-# RESULT
+DATASET
+A dataset is a collection of related data organized in the form of rows and columns. It
+is used to store, analyze, and understand information. In this experiment, the dataset
+contains customer details such as Country, Age, Salary, and Purchased.
+Publicly Available Dataset
+ A publicly available dataset is a collection of data that is made accessible to
+students, researchers, developers, or the general public.
+ It can usually be downloaded or accessed online for analysis and research.
+ Public datasets are commonly used for:
+o Data Analytics
+o Data Science
+o Machine Learning
+o Artificial Intelligence
+o Research
+o Laboratory experiments
+ Public datasets may be available in formats such as:
+o CSV
+o Excel
+o JSON
+o XML
+o Text
+o Images
+o Audio
+ Examples of public dataset sources:
+o UCI Machine Learning Repository
+o Kaggle
+o Government Open Data Portals
+o Google BigQuery Public Datasets
+ India's Open Government Data Platform (data.gov.in) provides publicly
+accessible datasets in areas such as education, health, environment, economy,
+and science and technology.
+ Public datasets are useful because they allow students to practice analytics
+without collecting data themselves.
+ Examples:
+o Iris Dataset – flower classification
+o Heart Disease Dataset – healthcare analysis
+o Student Performance Dataset – education analytics
+o Online Retail Dataset – customer purchasing analysis
+o Weather Dataset – environmental analysis
+Real-Time Dataset
+ A real-time dataset contains data that is generated or collected continuously
+from a real-world system.
+ The data is made available for processing and analysis immediately or with
+very little delay after it is generated.
+ Real-time data is often produced by:
+o Sensors
+o IoT devices
+o Mobile applications
+o GPS devices
+o Smart meters
+o Websites
+o Financial systems
+o Medical devices
+ Real-time data can continuously change as new observations arrive.
+ It is commonly used for real-time monitoring, prediction, and decision-making. 
+ples
+Examples
+ Smart Traffic
+o Vehicle speed
+o Vehicle count
+o Traffic density
+o Location 
+ Smart Grid
+o Electricity consumption
+o Voltage
+o Current
+o Power usage
+o Smart-meter readings 
+ Healthcare
+o Heart rate
+o Blood pressure
+o Temperature
+o Oxygen level 
+ Weather
+o Temperature
+o Humidity
+o Rainfall
+o Wind speed
+ Banking
+o Transactions
+o Payments
+o Account activity 
+ E-Commerce
+o Customer clicks
+o Product views
+o Orders
+o Purchases
+ Transportation
+o Vehicle location
+o Speed
+o Travel time
+o Traffic conditions
+
+RESULT
+Thus, the dataset and data analytics concepts were studied successfully, including
+publicly available and real-time datasets and their applications.
